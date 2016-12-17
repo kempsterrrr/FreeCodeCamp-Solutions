@@ -21,7 +21,7 @@ On starting this I am up to the Sorted Union challange in Intermediate Algorithm
 
 ###Doing:
 
-- Algorithm Scripting
+- Intermediate Algorithm Scripting
 
 ###Todo:
 
