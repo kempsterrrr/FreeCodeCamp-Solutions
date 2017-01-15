@@ -29,4 +29,8 @@ Use a RegExp testing tool
 
 ###Tip 2
 
-Add your test cases into the RegExp testing tool if it has the feature  
+Add your test cases into the RegExp testing tool if it has the feature
+
+###Tip 3
+
+Use a tool to graphically visualise your RegExp
