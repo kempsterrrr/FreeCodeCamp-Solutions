@@ -34,3 +34,12 @@ Add your test cases into the RegExp testing tool if it has the feature
 ###Tip 3
 
 Use a tool to graphically visualise your RegExp
+
+
+---
+
+##Current Status
+
+Link to RegExp playground WIP - https://regex101.com/r/kR1ygr/1
+
+Link to RegExp graphical tester - https://www.debuggex.com
