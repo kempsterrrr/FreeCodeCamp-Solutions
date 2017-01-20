@@ -40,6 +40,6 @@ Use a tool to graphically visualise your RegExp
 
 ##Current Status
 
-Link to RegExp playground WIP - https://regex101.com/r/kR1ygr/1
+<!-- Link to RegExp playground WIP - https://regex101.com/r/kR1ygr/1 -->
 
 Link to RegExp graphical tester - https://www.debuggex.com
